@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name = "doubler-test-eesha"
+  spec.name = "lita-doubler-mine-ash"
   spec.version = "0.1.2"
   spec.authors = ["EeshaSaif110"]
   spec.email = ["saifeesha345@gmail.com"]
