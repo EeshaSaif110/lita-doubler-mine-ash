@@ -3,7 +3,7 @@ Gem::Specification.new do |spec|
   spec.version = "0.1.2"
   spec.authors = ["EeshaSaif110"]
   spec.email = ["saifeesha345@gmail.com"]
-  spec.description = "Doubles numbers - simple demo skill"
+  spec.description = "Doubles numbers"
   spec.summary = "Doubles numbers - simple demo skill"
   spec.homepage = "https://github.com/EeshaSaif110/lita-doubler-mine-ash"
   spec.license = "MIT"
